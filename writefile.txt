@@ -1,0 +1,3 @@
+This is new file created in python programming.
+My name is Mohammed Al-Bayati.
+I am learing AI and ML.
