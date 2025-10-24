@@ -1,0 +1,5 @@
+2025-10-24 17:04:44,336_DEBUG: This is a debug message.
+2025-10-24 17:04:44,336_INFO: This is an info message.
+2025-10-24 17:04:44,336_WARNING: This is a warning message.
+2025-10-24 17:04:44,336_ERROR: This is an eror message.
+2025-10-24 17:04:44,337_CRITICAL: This is a critical message.
